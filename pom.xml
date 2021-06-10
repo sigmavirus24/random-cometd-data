@@ -11,7 +11,7 @@
 
   <properties>
     <cometd-version>4.0.6</cometd-version>
-    <jetty-version>9.4.25.v20191220</jetty-version>
+    <jetty-version>9.4.41.v20210516</jetty-version>
   </properties>
 
   <build>
